@@ -8,7 +8,7 @@
 
 * Currently, the performance of iQSM will decrease on ultra-high resolution data (0.7 mm isotropic or higher) due to training data limitation; an enhanced version, iQSM+, will be updated soon later next month. please visit, https://github.com/sunhongfu/deepMRI for our latest work, including DL-based QSM acquisition acceleration, dipole inversion, backgroun field removal, and phase unwrapping. 
 
-[demo data for a quick start](https://drive.google.com/file/d/1-rKqddWCujQ9MYnngtA7W0hVMM2tEg3p/view?usp=sharing) &nbsp;  | &nbsp;  [our paper @ NeuroImage (full paper)](https://www.sciencedirect.com/science/article/pii/S1053811922005274)
+[Domo data for a quick start](https://drive.google.com/file/d/1-rKqddWCujQ9MYnngtA7W0hVMM2tEg3p/view?usp=sharing) &nbsp;  | &nbsp;  [Our paper @ NeuroImage (full paper)](https://www.sciencedirect.com/science/article/pii/S1053811922005274)
 
 - See https://github.com/sunhongfu/deepMRI/tree/master/iQSM or contact Yang (yang.gao@csu.edu.cn or yang.gao@uq.edu.au) for more details about network training. 
 
